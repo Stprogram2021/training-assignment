@@ -1,3 +1,11 @@
 # training-assignment
 
-Hello this is just readme file.
+Added my_feature in this file.
+
+Commit 1.
+
+Commit 2.
+
+Commit 3.
+
+Commit 4.
